@@ -1,0 +1,26 @@
+{
+  "name": "HeroHero",
+  "description": "A place for creators. Build your community. Earn from subscriptions.",
+  "author": "Pavel Žůrek",
+  "authorUrl": "https://github.com/PavelZurek",
+  "sourceUrl": "TODO",
+  "repositoryUrl": "TODO",
+  "scriptUrl": "./heroheroScript.js",
+  "version": 1,
+  "iconUrl": "./heroheroIcon.png",
+  "id": "00b74d1a-f052-4ccf-b8de-9f5623efc685",
+  "scriptSignature": "TODO",
+  "scriptPublicKey": "TODO",
+  "packages": [
+    "Http"
+  ],
+  "allowEval": false,
+  "allowUrls": [
+    "svc-prod.herohero.co"
+  ],
+  "authentication": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.153 Mobile Safari/537.36",
+    "loginUrl": "https://herohero.co/",
+    "cookiesToFind": ["accessToken2"]
+  }
+}
