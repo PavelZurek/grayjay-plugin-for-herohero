@@ -1,16 +1,16 @@
 {
   "name": "HeroHero",
-  "description": "A place for creators. Build your community. Earn from subscriptions.",
+  "description": "A place for creators. Build your community. Earn from subscriptions. (neoficiální plugin)",
   "author": "Pavel Žůrek",
   "authorUrl": "https://github.com/PavelZurek",
-  "sourceUrl": "TODO",
-  "repositoryUrl": "TODO",
+  "sourceUrl": "https://pavelzurek.github.io/grayjay-plugin-for-herohero/heroheroConfig.json",
+  "repositoryUrl": "https://github.com/PavelZurek/grayjay-plugin-for-herohero",
   "scriptUrl": "./heroheroScript.js",
   "version": 1,
   "iconUrl": "./heroheroIcon.png",
   "id": "00b74d1a-f052-4ccf-b8de-9f5623efc685",
-  "scriptSignature": "TODO",
-  "scriptPublicKey": "TODO",
+  "scriptSignature": "",
+  "scriptPublicKey": "",
   "packages": [
     "Http"
   ],

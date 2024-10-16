@@ -9,5 +9,5 @@ Settings > Developer settings (unlock by tapping Version Code) > Start Server
 3. Visit
 `http://<phone-ip>:11337/dev`
 
-3. Enter served config
+4. Enter served config
 `http://<this-project-ip>:3000/heroheroConfig.json`
